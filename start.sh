@@ -1,0 +1,17 @@
+touch ~/.ad_pentest_history
+
+mkdir /usr/share/ad_helper
+touch /usr/share/ad_helper/username.lst
+touch /usr/share/ad_helper/password.lst
+touch /usr/share/ad_helper/hash.lst
+touch /usr/share/ad_helper/domain_name.lst
+touch /usr/share/ad_helper/target_ip.lst
+touch /usr/share/ad_helper/dc_ip.lst
+touch /usr/share/ad_helper/ntds_path.lst
+touch /usr/share/ad_helper/sam_path.lst
+touch /usr/share/ad_helper/system_path.lst
+touch /usr/share/ad_helper/interface.lst
+touch /usr/share/ad_helper/hash_file.lst
+touch /usr/share/ad_helper/wordlist.lst
+touch /usr/share/ad_helper/user_list.lst
+touch /usr/share/ad_helper/password_list.lst
